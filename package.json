@@ -1,0 +1,23 @@
+{
+  "name": "npmmessage-sao",
+  "version": "1.0.1",
+  "description": "I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "\\"
+  },
+  "author": "salvador alvares <sao.95@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sao29/npm-prueba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sao29/npm-prueba/issues"
+  },
+  "homepage": "https://github.com/sao29/npm-prueba#readme"
+}
